@@ -19,15 +19,15 @@ pub_year: 2024
 github_username: evanwill
 
 # add the full url for the github repository
-repo: "https://github.com/pogudingleb/diffalg-modeling"
+repo: "https://github.com/diffalg-modeling/diffalg-modeling"
 
 # site urls
 # add the url for the domain,
 # on gh-pages follow the pattern: https://username.github.io 
-url: https://pogudingleb.github.io
+url: https://diffalg-modeling.github.io
 # add subsection of the domain,
 # on gh-pages this is a / followed by the name of the repository
-baseurl: /diffalg-modeling
+baseurl: /
 
 # add google analytics if desired (optional)
 # if blank, it will be ignored
