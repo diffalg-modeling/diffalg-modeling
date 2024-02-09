@@ -9,7 +9,7 @@ The Workshop on Differential Algebra and Modeling will take place on July 20-22 
 The workshop follows the [International Symposium on Symbolic and Algebraic Computation](https://www.issac-conference.org/2024/) (ISSAC) 
 taking place at the North Carolina State University on July 16-19.
 
-{% include figure.html img="https://visit.ncsu.edu/wp-content/uploads/sites/27/2020/02/SAS_2.jpg" alt="" caption="copyright NC State University" width="75%" %}
+{% include figure.html src="https://visit.ncsu.edu/wp-content/uploads/sites/27/2020/02/SAS_2.jpg" alt="" caption="copyright NC State University" width="75%" %}
 
 The topics of the workshop include but are not limited to algebraic/hybrid methods for parameter identifiability and estimation, model reduction and selection, and symbolic transformations of dynamical models. 
 
