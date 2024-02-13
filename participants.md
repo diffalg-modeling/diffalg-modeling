@@ -12,6 +12,8 @@ nav: true
 * [Joseph DiStefano III](https://bri.ucla.edu/people/joseph-distefano/) (University of California, Los Angeles)
 
 * [Luis Fonseca](https://epi.ufl.edu/profile/fonseca-luis/) (University of Florida)
+  
+* [Adam Mahdi](https://www.oii.ox.ac.uk/people/profiles/adam-mahdi/) (University of Oxford)
 
 * [Helen Moore](https://directory.ufhealth.org/moore-helen) (University of Florida)
 
