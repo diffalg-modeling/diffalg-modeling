@@ -6,7 +6,7 @@ nav: true
 # Workshop on Differential Algebra and Modeling
 
 The Workshop on Differential Algebra and Modeling will take place on July 20-22 at the North Carolina State University (Raleigh, USA).
-The workshop follows the [International Symposium on Symbolic and Algebraic Computation](https://www.issac-conference.org/2024/) (ISSAC) 
+It is a satellite event to the [International Symposium on Symbolic and Algebraic Computation](https://www.issac-conference.org/2024/) (ISSAC) 
 taking place at the North Carolina State University on July 16-19.
 
 {% include figure.html img="https://visit.ncsu.edu/wp-content/uploads/sites/27/2020/02/SAS_2.jpg" alt="" caption="copyright NC State University" width="75%" %}
