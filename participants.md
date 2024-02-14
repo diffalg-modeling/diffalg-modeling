@@ -13,7 +13,7 @@ nav: true
 
 * [Gerardo Chowell-Puente](https://publichealth.gsu.edu/profile/gerardo-chowell/) (Georgia State University)
 
-* [Alexander Demin] (https://sumiya11.github.io) (HSE University)
+* [Alexander Demin](https://sumiya11.github.io) (HSE University)
 
 * [Joseph DiStefano III](https://bri.ucla.edu/people/joseph-distefano/) (University of California, Los Angeles)
 
