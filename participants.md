@@ -11,6 +11,8 @@ nav: true
 
 * [Andrew Brouwer](https://sph.umich.edu/faculty-profiles/brouwer_andrew.html) (University of Michigan)
 
+* [Gerardo Chowell-Puente](https://publichealth.gsu.edu/profile/gerardo-chowell/) (Georgia State University)
+
 * [Joseph DiStefano III](https://bri.ucla.edu/people/joseph-distefano/) (University of California, Los Angeles)
 
 * [Luis Fonseca](https://epi.ufl.edu/profile/fonseca-luis/) (University of Florida)
