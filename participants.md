@@ -18,10 +18,14 @@ nav: true
 * [Joseph DiStefano III](https://bri.ucla.edu/people/joseph-distefano/) (University of California, Los Angeles)
 
 * [Luis Fonseca](https://epi.ufl.edu/profile/fonseca-luis/) (University of Florida)
+
+* [Antonio Jiménez-Pastor](https://homes.cs.aau.dk/~ajpa/) (Aalborg University)
   
 * [Adam Mahdi](https://www.oii.ox.ac.uk/people/profiles/adam-mahdi/) (University of Oxford)
 
 * [Helen Moore](https://directory.ufhealth.org/moore-helen) (University of Florida)
+
+* Louis Roussel (University of Lille)
 
 * [Mark Transtrum](https://physics.byu.edu/faculty/transtrum/index) (Brigham Young University)
 
