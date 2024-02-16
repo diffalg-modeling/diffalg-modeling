@@ -19,6 +19,8 @@ nav: true
 
 * [Luis Fonseca](https://epi.ufl.edu/profile/fonseca-luis/) (University of Florida)
 
+* [Bo Huang](https://scholar.google.com/citations?user=3k2oS1YAAAAJ&hl=zh-CN) (Beihang University)
+
 * [Antonio Jiménez-Pastor](https://homes.cs.aau.dk/~ajpa/) (Aalborg University)
   
 * [Adam Mahdi](https://www.oii.ox.ac.uk/people/profiles/adam-mahdi/) (University of Oxford)
