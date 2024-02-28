@@ -22,12 +22,16 @@ nav: true
 * [Bo Huang](https://scholar.google.com/citations?user=3k2oS1YAAAAJ&hl=zh-CN) (Beihang University)
 
 * [Antonio Jiménez-Pastor](https://homes.cs.aau.dk/~ajpa/) (Aalborg University)
+
+* [Mizuka Komatsu](http://www2.kobe-u.ac.jp/~mkomatsu/english.html) (Kobe University)
   
 * [Adam Mahdi](https://www.oii.ox.ac.uk/people/profiles/adam-mahdi/) (University of Oxford)
 
 * [Helen Moore](https://directory.ufhealth.org/moore-helen) (University of Florida)
 
 * Louis Roussel (University of Lille)
+
+* [Bertrand Teguia Tabuguia](https://bertrandteguia.com) (University of Oxford)
 
 * [Mark Transtrum](https://physics.byu.edu/faculty/transtrum/index) (Brigham Young University)
 
