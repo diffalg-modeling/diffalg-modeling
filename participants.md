@@ -27,6 +27,8 @@ nav: true
   
 * [Adam Mahdi](https://www.oii.ox.ac.uk/people/profiles/adam-mahdi/) (University of Oxford)
 
+* Leila Mirsaleh Kohan (Florida Atlantic University)
+
 * [Helen Moore](https://directory.ufhealth.org/moore-helen) (University of Florida)
 
 * Louis Roussel (University of Lille)
