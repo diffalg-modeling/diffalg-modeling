@@ -33,6 +33,8 @@ nav: true
 
 * [Helen Moore](https://directory.ufhealth.org/moore-helen) (University of Florida)
 
+* [Marissa Renardy](https://marissarenardy.com) (Certara)
+
 * Louis Roussel (University of Lille)
 
 * [Bertrand Teguia Tabuguia](https://bertrandteguia.com) (University of Oxford)
