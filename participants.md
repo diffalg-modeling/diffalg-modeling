@@ -37,6 +37,8 @@ nav: true
 
 * Louis Roussel (University of Lille)
 
+* [Maria Pia Saccomani](https://www.dei.unipd.it/~pia/) (University of Padova)
+
 * [Bertrand Teguia Tabuguia](https://bertrandteguia.com) (University of Oxford)
 
 * [Mark Transtrum](https://physics.byu.edu/faculty/transtrum/index) (Brigham Young University)
