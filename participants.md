@@ -23,6 +23,8 @@ nav: true
 
 * [Antonio Jiménez-Pastor](https://homes.cs.aau.dk/~ajpa/) (Aalborg University)
 
+* [Zack Kenz](https://www.simulations-plus.com/people/zackary-kenz/) (SimulationsPlus) to be confirmed
+
 * [Mizuka Komatsu](http://www2.kobe-u.ac.jp/~mkomatsu/english.html) (Kobe University)
 
 * [Alexander Leguizamon Robayo](https://vbn.aau.dk/en/persons/153046) (Aalborg University)
