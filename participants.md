@@ -25,8 +25,6 @@ nav: true
 
 * [Zack Kenz](https://www.simulations-plus.com/people/zackary-kenz/) (SimulationsPlus)
 
-* [Mizuka Komatsu](http://www2.kobe-u.ac.jp/~mkomatsu/english.html) (Kobe University)
-
 * [Alexander Leguizamon Robayo](https://vbn.aau.dk/en/persons/153046) (Aalborg University)
   
 * [Adam Mahdi](https://www.oii.ox.ac.uk/people/profiles/adam-mahdi/) (University of Oxford)
