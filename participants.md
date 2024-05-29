@@ -11,6 +11,8 @@ nav: true
 
 * [Andrew Brouwer](https://sph.umich.edu/faculty-profiles/brouwer_andrew.html) (University of Michigan)
 
+* [Shaoshi Chen](http://www.mmrc.iss.ac.cn/~schen/) (Chinese Academy of Sciences) 
+
 * [Gerardo Chowell-Puente](https://publichealth.gsu.edu/profile/gerardo-chowell/) (Georgia State University)
 
 * [Alexander Demin](https://sumiya11.github.io) (HSE University)
