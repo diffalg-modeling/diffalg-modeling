@@ -33,8 +33,6 @@ nav: true
 
 * [Helen Moore](https://directory.ufhealth.org/moore-helen) (University of Florida)
 
-* [Marissa Renardy](https://marissarenardy.com) (Certara)
-
 * Louis Roussel (University of Lille)
 
 * [Maria Pia Saccomani](https://www.dei.unipd.it/~pia/) (University of Padova)
