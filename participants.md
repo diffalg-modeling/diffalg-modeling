@@ -17,7 +17,7 @@ nav: true
 
 * [Alexander Demin](https://sumiya11.github.io) (HSE University)
 
-* [Luis Fonseca](https://epi.ufl.edu/profile/fonseca-luis/) (University of Florida)
+* [François Fages](https://lifeware.inria.fr/wiki/Fages/Publications) (INRIA)
 
 * [Bo Huang](https://scholar.google.com/citations?user=3k2oS1YAAAAJ&hl=zh-CN) (Beihang University)
 
@@ -29,12 +29,12 @@ nav: true
   
 * [Adam Mahdi](https://www.oii.ox.ac.uk/people/profiles/adam-mahdi/) (University of Oxford)
 
+* [Nicolette Meshkat](https://www.scu.edu/cas/mathcs/faculty-and-staff/nicolette-meshkat/) (Santa Clara University)
+
 * [Helen Moore](https://directory.ufhealth.org/moore-helen) (University of Florida)
 
 * Louis Roussel (University of Lille)
 
 * [Maria Pia Saccomani](https://www.dei.unipd.it/~pia/) (University of Padova)
-
-* [Bertrand Teguia Tabuguia](https://bertrandteguia.com) (University of Oxford)
 
 * [Mark Transtrum](https://physics.byu.edu/faculty/transtrum/index) (Brigham Young University)
