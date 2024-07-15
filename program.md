@@ -11,9 +11,9 @@ nav: true
 <br>
 <br>
 
-10:00-10:40: Nicolette Meshkat, *TBD*
+10:00-10:40: Nicolette Meshkat, *Identifiability and indistinguishability of linear compartmental models*
 <details><summary>Abstract</summary>
-TBD
+An important question that arises when modeling is if the unknown parameters can be determined from data, the parameter estimation problem.  A key first step is to ask which parameters can be determined given perfect data.  This is called the structural identifiability problem.  We examine this question for a class of models called linear compartmental models, used in pharmacokinetics, physiology, cell biology, toxicology, and ecology.  We also examine a related problem called indistinguishability, which examines if two distinct models yield the same dynamics.  We will consider the underlying graph corresponding to our model and use tools from graph theory and computational algebra to analyze our models.
 </details>
 <br>
 
@@ -33,9 +33,9 @@ This talk will present a simple but meaningful example of the importance and app
 <br>
 <br>
 
-1:20 - 2:00: Helen Moore, *TBD*
+1:20 - 2:00: Helen Moore, *Identifiability within an evaluation framework for systems models*
 <details><summary>Abstract</summary>
-TBD
+I will discuss model evaluation for quantitative systems pharmacology (QSP) models. I will include both structural and practical identifiability in the context of in-host QSP models, and my views on where identifiability should sit within a modeling workflow. I will show an example of model evaluation applied to a QSP model for multiple myeloma.
 </details>
 <br>
 
