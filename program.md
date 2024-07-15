@@ -5,9 +5,11 @@ nav: true
 
 # Program of the workshop
 
+Unless specified explicitly, the location is SAS 2203 (in particular, all the talks will take place there).
+
 ## Saturday July 20
 
-9:00-10:00: Breakfast and Coffee
+9:00-10:00: Breakfast and Coffee (SAS Lobby)
 <br>
 <br>
 
@@ -29,7 +31,7 @@ This talk will present a simple but meaningful example of the importance and app
 </details>
 <br>
 
-12:00 - 1:20: Lunch
+12:00 - 1:20: Lunch (SAS 4104)
 <br>
 <br>
 
@@ -51,7 +53,7 @@ Historically, Chemical Reaction Networks (CRN) have been introduced to model hig
 </details>
 <br>
 
-3:20 - 4:00: Coffee
+3:20 - 4:00: Coffee (SAS Lobby)
 <br>
 <br>
 
@@ -59,14 +61,14 @@ Historically, Chemical Reaction Networks (CRN) have been introduced to model hig
 <br>
 <br>
 
-5:00 - 7:00: Dinner reception
+5:00 - 7:00: Dinner reception (SAS 4104)
 <br>
 <br>
 <br>
 
 ## Sunday July 21
 
-9:00-10:00: Breakfast and Coffee
+9:00-10:00: Breakfast and Coffee (SAS Lobby)
 <br>
 <br>
 
@@ -92,7 +94,7 @@ Keywords: parameter estimation, input-output equations, integral elimination
 </details>
 <br>
 
-12:00 - 1:30: Lunch
+12:00 - 1:30: Lunch (SAS 4104)
 <br>
 <br>
 
@@ -107,7 +109,7 @@ We present some basic properties of stable elements in a difference field and P-
 <br>
 <br>
 
-3:00 - 3:30: Coffee
+3:00 - 3:30: Coffee (SAS Lobby)
 <br>
 <br>
 
@@ -128,7 +130,7 @@ Joint work with Georgios Argyris, Alberto Lluch Lafuente, Mirco Tribastone, Max 
 
 ## Monday July 22
 
-9:00-10:00: Breakfast and Coffee
+9:00-10:00: Breakfast and Coffee (SAS Lobby)
 <br>
 <br>
 
@@ -169,4 +171,4 @@ Virtual Populations are used in Quantitative Systems Pharmacologyn (QSP) models 
 </details>
 <br>
 
-12:00-1:30: Lunch
+12:00-1:30: Lunch (SAS 4104)
