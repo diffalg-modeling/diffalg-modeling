@@ -9,6 +9,7 @@ nav: true
 
 9:00-10:00: Breakfast and Coffee
 <br>
+<br>
 
 10:00-10:40: Nicolette Meshkat, *TBD*
 <details><summary>Abstract</summary>
@@ -29,6 +30,7 @@ This talk will present a simple but meaningful example of the importance and app
 <br>
 
 12:00 - 1:20: Lunch
+<br>
 <br>
 
 1:20 - 2:00: Helen Moore, *TBD*
@@ -51,16 +53,21 @@ Historically, Chemical Reaction Networks (CRN) have been introduced to model hig
 
 3:20 - 4:00: Coffee
 <br>
+<br>
 
 4:00 - 4:45: Problem session
 <br>
+<br>
 
 5:00 - 7:00: Dinner reception
+<br>
+<br>
 <br>
 
 ## Sunday July 21
 
 9:00-10:00: Breakfast and Coffee
+<br>
 <br>
 
 10:00-10:40: Gerardo Chowell-Puente, *Structural and practical identifiability analysis of epidemic models based on differential equations*
@@ -87,6 +94,7 @@ Keywords: parameter estimation, input-output equations, integral elimination
 
 12:00 - 1:30: Lunch
 <br>
+<br>
 
 1:30 - 2:10: Shaoshi Chen, *Stability problems in symbolic summation*
 <details><summary>Abstract</summary>
@@ -97,8 +105,10 @@ We present some basic properties of stable elements in a difference field and P-
 
 2:10 - 3:00: Mentoring
 <br>
+<br>
 
 3:00 - 3:30: Coffee
+<br>
 <br>
 
 3:30 - 4:10: Antonio Jiménez-Pastor, *Almost commuting bases of generic linear differential operators*
@@ -114,10 +124,12 @@ Quantitative notions of bisimulation are well-known tools for the minimization o
 Joint work with Georgios Argyris, Alberto Lluch Lafuente, Mirco Tribastone, Max Tschaikowski, Andrea Vandin.
 </details>
 <br>
+<br>
 
 ## Monday July 22
 
 9:00-10:00: Breakfast and Coffee
+<br>
 <br>
 
 10:00-10:40: Maria Pia Saccomani, *Showcase of the software DAISY by testing identifiability examples and discussion of open problems*
