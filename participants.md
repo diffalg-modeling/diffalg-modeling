@@ -19,16 +19,12 @@ nav: true
 
 * [François Fages](https://lifeware.inria.fr/wiki/Fages/Publications) (INRIA)
 
-* [Bo Huang](https://scholar.google.com/citations?user=3k2oS1YAAAAJ&hl=zh-CN) (Beihang University)
-
 * [Antonio Jiménez-Pastor](https://homes.cs.aau.dk/~ajpa/) (Aalborg University)
 
 * [Zack Kenz](https://www.simulations-plus.com/people/zackary-kenz/) (SimulationsPlus)
 
 * [Alexander Leguizamon Robayo](https://vbn.aau.dk/en/persons/153046) (Aalborg University)
   
-* [Adam Mahdi](https://www.oii.ox.ac.uk/people/profiles/adam-mahdi/) (University of Oxford)
-
 * [Nicolette Meshkat](https://www.scu.edu/cas/mathcs/faculty-and-staff/nicolette-meshkat/) (Santa Clara University)
 
 * [Helen Moore](https://directory.ufhealth.org/moore-helen) (University of Florida)
