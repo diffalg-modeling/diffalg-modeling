@@ -41,9 +41,11 @@ I will discuss model evaluation for quantitative systems pharmacology (QSP) mode
 </details>
 <br>
 
-2:00 - 2:40: Zack Kenz, *Virtual population generation in quantitative systems pharmacology models with inflammation and fibrosis*
+2:00 - 2:40: Louis Roussel, *Parameter estimation with integral elimination*
 <details><summary>Abstract</summary>
-Mechanistic, mathematical modeling approaches such as quantitative systems pharmacology (QSP) can identify the links between pathophysiologic mechanisms and clinical sequela, aid in interpreting drug treatment results, and predict potential efficacy for novel treatments. Virtual patients, mathematically explicit hypothesis of disease pathophysiology, are generated and validated during model development and subsequently used to support decision-making (e.g., dose selection, efficacy/safety) and hypothesis testing (e.g., interrogate treatment mechanism of action, identify data gaps). Multiple methods for generation and validation of virtual populations exist; a subset will be discussed in the context of clinically relevant complex multi-scale QSP models with inflammation and fibrosis.
+In this talk, we investigate the interest of using nonlinear integral equations instead of nonlinear differential equations in a modeling context.  In particular, we compare the quality of parameter estimation on an academic example using different input-output differential and integral equations. Finally, I will present the package IntegralElimination on two examples. The Python implementation is available <a href="https://codeberg.org/louis-roussel/IntegralElimination">here</a>.
+<br>
+Keywords: parameter estimation, input-output equations, integral elimination
 </details>
 <br>
 
@@ -103,11 +105,9 @@ To explain all these points, I will use real biological models recently proposed
 </details>
 <br>
 
-11:20 - 12:00: Louis Roussel, *Parameter estimation with integral elimination*
+11:20 - 12:00: Zack Kenz, *Virtual population generation in quantitative systems pharmacology models with inflammation and fibrosis*
 <details><summary>Abstract</summary>
-In this talk, we investigate the interest of using nonlinear integral equations instead of nonlinear differential equations in a modeling context.  In particular, we compare the quality of parameter estimation on an academic example using different input-output differential and integral equations. Finally, I will present the package IntegralElimination on two examples. The Python implementation is available <a href="https://codeberg.org/louis-roussel/IntegralElimination">here</a>.
-<br>
-Keywords: parameter estimation, input-output equations, integral elimination
+Mechanistic, mathematical modeling approaches such as quantitative systems pharmacology (QSP) can identify the links between pathophysiologic mechanisms and clinical sequela, aid in interpreting drug treatment results, and predict potential efficacy for novel treatments. Virtual patients, mathematically explicit hypothesis of disease pathophysiology, are generated and validated during model development and subsequently used to support decision-making (e.g., dose selection, efficacy/safety) and hypothesis testing (e.g., interrogate treatment mechanism of action, identify data gaps). Multiple methods for generation and validation of virtual populations exist; a subset will be discussed in the context of clinically relevant complex multi-scale QSP models with inflammation and fibrosis.
 </details>
 <br>
 
